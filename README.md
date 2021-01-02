@@ -1,8 +1,5 @@
  # Hi, i am Cadu!😀
-
-I'm an Brazilian programmer and 
-enthusiast of designer  and I'm 17 years old.
-Currently work as a backEnd dev.
+I am a Brazilian programmer and designer enthusiast and I am 17 years old and currently work as a backEnd dev.
 
 [![Linkedin Badge](https://img.shields.io/static/v1?message=Carlos%20%45duardo&logo=linkedin&labelColor=grey&color=grey&logoColor=white&label=%20)](https://www.linkedin.com/in/carlos-eduardo-2884321bb/) [![Outlook Badge](https://img.shields.io/static/v1?message=caducadusantos1@outlook.com&logo=Gmail&labelColor=grey&color=grey&logoColor=white&label=%20)](mailto:caducadusantos1@outlook.com) [![Discord User](https://img.shields.io/static/v1?message=carlinhos%20%236099&logo=discord&labelColor=grey&color=grey&logoColor=white&label=%20)](https://discord.com/users/455174170729512982)
 
