@@ -13,11 +13,11 @@ enthusiast of designer  and I'm 17 years old.
 
 I currently contribute to Wikit, a project to automate school projects.
 
-![Carlos Eduardo's github stats](https://github-readme-stats.vercel.app/api/pin/?username=Caduzzin&repo=Wikit&theme=dark)
+![Carlos Eduardo's github stats](https://github-readme-stats.vercel.app/api/pin/?username=Caduzzin&repo=Wikit&theme=graywhite)
 
 
 ## Github stats: 😎
-![Carlos Eduardo's github stats](https://github-readme-stats.vercel.app/api?username=Caduzzin&hide=["issues"]&&theme=dark)
+![Carlos Eduardo's github stats](https://github-readme-stats.vercel.app/api?username=Caduzzin&hide=["issues"]&&theme=graywhite)
 
 
 
