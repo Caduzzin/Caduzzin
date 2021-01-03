@@ -11,11 +11,11 @@ I am a Brazilian programmer and designer enthusiast and I am 17 years old and cu
 
 I currently contribute to Wikit, a project to automate school projects.
 
-![Carlos Eduardo's github stats](https://github-readme-stats.vercel.app/api/pin/?username=Caduzzin&repo=Wikit&theme=slateorange)
+![Carlos Eduardo's github stats](https://github-readme-stats.vercel.app/api/pin/?username=Caduzzin&repo=Wikit&theme=react)
 
 
 ## Github stats: 😎
-![Carlos Eduardo's github stats](https://github-readme-stats.vercel.app/api?username=Caduzzin&hide=["issues"]&&theme=slateorange)
+![Carlos Eduardo's github stats](https://github-readme-stats.vercel.app/api?username=Caduzzin&hide=["issues"]&&theme=react)
 
 
 
