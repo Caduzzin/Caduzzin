@@ -3,7 +3,7 @@ I am a Brazilian programmer and designer enthusiast and I am 17 years old and cu
 
 [![Linkedin Badge](https://img.shields.io/static/v1?message=Carlos%20%45duardo&logo=linkedin&labelColor=grey&color=grey&logoColor=white&label=%20)](https://www.linkedin.com/in/carlos-eduardo-2884321bb/) [![Outlook Badge](https://img.shields.io/static/v1?message=caducadusantos1@outlook.com&logo=Gmail&labelColor=grey&color=grey&logoColor=white&label=%20)](mailto:caducadusantos1@outlook.com) [![Discord User](https://img.shields.io/static/v1?message=carlinhos%20%236099&logo=discord&labelColor=grey&color=grey&logoColor=white&label=%20)](https://discord.com/users/455174170729512982)
 
-![alt text](https://i.pinimg.com/originals/f8/3e/4d/f83e4d82b0e73bfd9753ebddfd0fd743.gif)
+![alt text](https://media2.giphy.com/media/uOG8XDPoLfTfErmral/giphy.gif)
 
 
 
