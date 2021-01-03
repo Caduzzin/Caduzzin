@@ -1,4 +1,4 @@
-<h1>## Hi, i am Cadu!😀 </h1>
+<h1>Hi, i am Cadu!😀 </h1>
 
 I am a Brazilian programmer and designer enthusiast, I am 17 years old and currently work as a backEnd dev.
 
